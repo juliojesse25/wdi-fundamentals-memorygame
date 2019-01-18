@@ -80,3 +80,13 @@ footer{
 a:hover{
 	border-color: white;
 }
+input{
+	font-family: "Raleway", sans-serif;
+	background-color: #F15B31;
+	color: #FFFFFF;
+	margin: 40px;
+	padding: 20px;
+	font-weight: 600;
+	letter-spacing: 1px;
+	border-radius: 20px;
+}
